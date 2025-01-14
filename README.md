@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm Michael. 
+I'm a data scientist with a background in bioprocess development. 
+
+Welcome to my github!
+
 
 <!--
 **michaelkagan1/michaelkagan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
